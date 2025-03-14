@@ -6,12 +6,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="opengeotech",
     version="0.1.0",
-    author="OpenGeoTech Contributors",
-    author_email="your.email@example.com",
+    author="OpenGeotech Contributors",
+    author_email="opengeotechnical@gmail.com",
     description="A simple geotechnical engineering package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/opengeotech",
+    url="https://github.com/OpenGeotechnical/opengeotech",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
